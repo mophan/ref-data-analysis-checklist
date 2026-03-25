@@ -29,7 +29,7 @@ Ask
 </td>
 <td style="text-align:left;">
 
-1.  What is the problem you are trying to solve?
+1.  What is the problem to solve?
 2.  How can your insights drive business decisions?
     </td>
     <td style="text-align:left;">
